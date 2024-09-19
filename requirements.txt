@@ -1,0 +1,17 @@
+asgiref==3.5.0
+backports.zoneinfo==0.2.1
+beautifulsoup4==4.12.0
+certifi==2021.10.8
+charset-normalizer==2.0.12
+Django==4.0.3
+gunicorn==20.1.0
+idna==3.3
+psycopg2-binary==2.9.3
+pytz==2022.2.1
+requests==2.27.1
+six==1.16.0
+soupsieve==2.4
+sqlparse==0.4.2
+urllib3==1.26.8
+XlsxWriter==3.0.3
+zdesk==2.8.0
